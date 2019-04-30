@@ -1,0 +1,12 @@
+.button{
+    background:url(phoenix-objecting.gif) no-repeat;
+    cursor:pointer;
+    border:none;
+    width:250px;
+    height:150px;
+}
+
+.myButton:active  /* use Dot here */
+{
+    background:url(phoenix-objecting.gif) no-repeat;
+}
